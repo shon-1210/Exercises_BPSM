@@ -6,3 +6,7 @@ mypasswordsfile
 *.pdf
 *.c
 *.log
+*.swo
+*.swn
+*.swp
+*.swm
